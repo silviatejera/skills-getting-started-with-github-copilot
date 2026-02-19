@@ -87,6 +87,17 @@ section h3 {
   border-radius: 3px;
 }
 
+.activity-card .delete-icon {
+  cursor: pointer;
+  margin-left: 8px;
+  color: #c62828;
+  font-weight: bold;
+}
+
+.activity-card .delete-icon:hover {
+  color: #b71c1c;
+}
+
 .activity-card .no-participants {
   font-style: italic;
   color: #777;
